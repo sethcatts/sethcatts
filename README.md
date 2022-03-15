@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sethcatts
-- 👀 I’m interested in Computer Science, Graphic Design, Photography, and Chess
-- 🌱 I’m currently learning full stack web
+Hi, I’m @sethcatts
+
+I am passionate about Computer Science, Graphic Design, Photography, and Philosophy. 
 
 
 <!---
