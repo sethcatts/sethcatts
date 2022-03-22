@@ -1,8 +1,8 @@
 ### Hi, I’m @sethcatts
 
 ### I am passionate about Computer Science, Graphic Design, Photography, and Philosophy. 
-+ My website [devcatts.me](https://www.devcatts.me)
-+ My photography Instagram [statsetch](https://www.instagram.com/statsetch/)
+- Live versions of some of my projects can be found on my website, [devcatts.me](https://www.devcatts.me)
+- Proof that I sometimes go outside can be found on my photography Instagram, [statsetch](https://www.instagram.com/statsetch/)
 
 ### I am currently learning full stack web development and have experience with Python, Java, and C++
 <!---
