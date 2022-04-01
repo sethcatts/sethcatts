@@ -20,7 +20,7 @@ The game of Connect Four created with HTML, CSS, and vanilla Javascript
 Repo: [SHC_Connect4](https://github.com/sethcatts/SHC_Connect4)
 
 ### ELO Leaderboard Manager
-Delta ELO is a minimal ELO, player, and game manager
+Delta ELO is a minimal ELO, player, and game manager  
 Repo: [Delta ELO](https://github.com/sethcatts/Delta-ELO)
 <!---
 sethcatts/sethcatts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
